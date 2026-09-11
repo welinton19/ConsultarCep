@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="ConsultarCep/ConsultarCep.csproj" />
+  </Folder>
+  <Folder Name="/Nucleo/">
+    <Project Path="ConsultarCep.Domain/ConsultarCep.Domain.csproj" Id="80638170-28f1-421c-aea9-c57fddee6ff9" />
+  </Folder>
+</Solution>
