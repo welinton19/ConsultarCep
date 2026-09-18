@@ -3,6 +3,7 @@
     <Project Path="ConsultarCep/ConsultarCep.csproj" />
   </Folder>
   <Folder Name="/Nucleo/">
+    <Project Path="ConsultarCep.Application/ConsultarCep.Application.csproj" Id="c7d130c5-43a2-49cb-9390-3f76afb15c83" />
     <Project Path="ConsultarCep.Domain/ConsultarCep.Domain.csproj" Id="80638170-28f1-421c-aea9-c57fddee6ff9" />
   </Folder>
 </Solution>
