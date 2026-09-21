@@ -2,12 +2,12 @@
 
 public class FreteResult
 {
-    public Decimal ValorFrete { get; private set; }
-    public string? Transportadora { get; private set; }
-    public int PrazoEntregaDias { get; private set; }
-    public string? Regiao { get; private set; }
+    public Decimal ValorFrete { get; set; }
+    public string? Transportadora { get; set; }
+    public int PrazoEntregaDias { get; set; }
+    public string? Regiao { get; set; }
 
-    private FreteResult()
+    public FreteResult()
     {
 
     }

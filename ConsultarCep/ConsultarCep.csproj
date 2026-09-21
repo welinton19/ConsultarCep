@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.11" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.17.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsultarCep.Application\ConsultarCep.Application.csproj" />
+    <ProjectReference Include="..\ConsultarCep.Domain\ConsultarCep.Domain.csproj" />
   </ItemGroup>
 
 </Project>
